@@ -1,0 +1,9 @@
+.env
+__init__.py
+__pycache__/
+switch-core.env
+switch-core.log
+switch.txt
+/vir/
+/migrations/
+/storage/
